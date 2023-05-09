@@ -32,7 +32,7 @@ Este repositorio es una prueba técnica para desarrolladores en Laravel, MySql, 
 ### GIT
 1. Hacer un Fork de este repositorio.
 2. Crear varios commits que muestren el progreso del desarrollo.
-3. Enviar un Pull Request cuando se complete la prueba.
+3. Enviar un Pull Request a la Branch `developer` cuando se complete la prueba.
 
 ## Instrucciones adicionales
 - Utilice las versiones más recientes de Laravel, MySql y Docker.
