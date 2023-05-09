@@ -22,7 +22,7 @@ Este repositorio es una prueba técnica para desarrolladores en Laravel, MySql, 
 
 ### Docker
 1. Crear un archivo `docker-compose.yml` que incluya las siguientes imágenes:
-   * PHP
+   * `gumadesarrollo/php:7.4-apache-sqlsrv-prod` como imagen de referencia para PHP.
    * Nginx
    * MySql
 2. Configurar el archivo `docker-compose.yml` para que el proyecto Laravel se ejecute en el puerto 80.
